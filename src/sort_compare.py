@@ -1,3 +1,4 @@
+# SSU 1-2 Discrete Math Assignment
 import random
 import time
 
